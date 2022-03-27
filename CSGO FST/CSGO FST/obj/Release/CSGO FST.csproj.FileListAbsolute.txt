@@ -1,0 +1,19 @@
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\CSGO FST.exe.config
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\CSGO FST.exe
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\CSGO FST.pdb
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\Newtonsoft.Json.dll
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\System.ValueTuple.dll
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\WindowsInput.dll
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\Newtonsoft.Json.pdb
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\Newtonsoft.Json.xml
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\System.ValueTuple.xml
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\WindowsInput.pdb
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\bin\Release\WindowsInput.xml
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGOFST.MainForm.resources
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGOFST.Properties.Resources.resources
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.csproj.GenerateResource.cache
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.csproj.CopyComplete
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.exe
+D:\Documents\GitHub\CSGOFST\CSGO FST\CSGO FST\obj\Release\CSGO FST.pdb
