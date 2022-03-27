@@ -1,0 +1,18 @@
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.MainForm.resources
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGO FST.csproj.GenerateResource.cache
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGO FST.csproj.CoreCompileInputs.cache
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\CSGO FST.exe.config
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\CSGO FST.exe
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\CSGO FST.pdb
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\System.ValueTuple.dll
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\WindowsInput.dll
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\Newtonsoft.Json.pdb
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\System.ValueTuple.xml
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\WindowsInput.pdb
+D:\Documents\CSGO FST\CSGO FST\bin\Debug\WindowsInput.xml
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.Properties.Resources.resources
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGO FST.exe
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGO FST.pdb
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGO FST.csproj.AssemblyReference.cache

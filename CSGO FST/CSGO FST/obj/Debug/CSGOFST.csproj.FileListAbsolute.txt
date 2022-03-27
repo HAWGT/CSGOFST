@@ -1,0 +1,5 @@
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.csprojAssemblyReference.cache
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.MainForm.resources
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\Pervitin.Properties.Resources.resources
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.csproj.GenerateResource.cache
+D:\Documents\CSGO FST\CSGO FST\obj\Debug\CSGOFST.csproj.CoreCompileInputs.cache
